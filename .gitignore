@@ -1,0 +1,15 @@
+# VSCode extension
+.vscode/
+
+# Venv
+.env/
+
+# CDK Context & Staging files
+cdk.context.json
+.cdk.staging/
+cdk.out/
+
+# Project and Python
+__pycache__/
+aws_cdk_api_sample/aws_cdk_api_sample.egg-info/
+aws_cdk_api_sample/__pycache__/
