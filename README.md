@@ -56,7 +56,7 @@ $ cdk destroy --profile <your-local-profile>
 
 References:
 
-    https://github.com/aws-samples/aws-cdk-examples
+    <https://github.com/aws-samples/aws-cdk-examples>
 
-    https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html
+    <https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html>
 
